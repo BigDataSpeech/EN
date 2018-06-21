@@ -1,0 +1,23 @@
+---
+layout: post
+title:  Résumé : Entités nommées
+date:   2018-06-21 11:40:18
+categories: resume
+---
+## Quoi, quoi, où? Introduction au traitement des entités nommées dans de larges corpus oraux.
+
+
+Ce cours vise à introduire le concept d’entité nommée et à présenter les principales méthodes utilisées pour leur traitement automatique. A l’issue du cours, les étudiants seront en mesure de 
+
+a) situer les origines et évaluer les enjeux actuels du traitement des entités nommées, 
+
+b) de caractériser ces unités d’un point de vue linguistique et applicatif, 
+
+c) de lister les ressources nécessaires à leur traitement, et 
+
+d) de comprendre les principales méthodes utilisées pour leur reconnaissance, classification et désambiguïsation.
+
+
+## Who are you talking about? An introduction to named entity processing (in large speech corpora). 
+
+This course will introduce the concept of named entity and present the main methods used for their automatic processing. Throughout the session, the audience will learn about the origins of named entity processing, the linguistic characterisation of these units, the resources needed for their processing, and the tools and algorithms used for their recognition, classification and disambiguation. Each perspective will first be presented from a general NLP viewpoint, before emphasising specific characteristics and challenges of speech (large) corpora.
