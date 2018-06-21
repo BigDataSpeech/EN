@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Résumé : Entités nommées
+title:  "Résumé : Entités nommées"
 date:   2018-06-21 11:40:18
 categories: resume
 ---
