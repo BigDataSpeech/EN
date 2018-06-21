@@ -13,9 +13,11 @@ a) situer les origines et évaluer les enjeux actuels du traitement des entités
 
 b) de caractériser ces unités d’un point de vue linguistique et applicatif, 
 
-c) de lister les ressources nécessaires à leur traitement, et 
+c) de lister les ressources nécessaires à leur traitement 
 
-d) de comprendre les principales méthodes utilisées pour leur reconnaissance, classification et désambiguïsation.
+d) de comprendre les principales méthodes utilisées pour leur reconnaissance, classification et désambiguïsation, et 
+
+e) savoir comment évaluer les performances réalisées.
 
 
 ## Who are you talking about? An introduction to named entity processing (in large speech corpora). 
