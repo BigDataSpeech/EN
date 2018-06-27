@@ -4,7 +4,7 @@ title:  "Résumé : Entités nommées"
 date:   2018-06-21 11:40:18
 categories: resume
 ---
-## Quoi, quoi, où? Introduction au traitement des entités nommées dans de larges corpus oraux.
+## Qui, quoi, où? Introduction au traitement des entités nommées dans de larges corpus oraux.
 
 
 Ce cours vise à introduire le concept d’entité nommée et à présenter les principales méthodes utilisées pour leur traitement automatique. A l’issue du cours, les étudiants seront en mesure de 
