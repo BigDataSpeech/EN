@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Résumé : Entités nommées"
+title:  "Résumé : Entités nommées (Maud Ehrmann et Sophie Rosset"
 date:   2018-06-21 11:40:18
 categories: resume
 ---
@@ -19,7 +19,7 @@ d) de comprendre les principales méthodes utilisées pour leur reconnaissance, 
 
 e) savoir comment évaluer les performances réalisées.
 
-Le support de cours est [disponible ici](https://github.com/BigDataSpeech/EN/blob/gh-pages/docs/classEN.pdf).
+Le support de cours est [disponible ici](https://github.com/BigDataSpeech/EN/blob/gh-pages/docs/classEN.pdf) (Maud Ehrmann, Sophie Rosset).
 
 ## Who are you talking about? An introduction to named entity processing (in large speech corpora). 
 
