@@ -19,7 +19,10 @@ d) de comprendre les principales méthodes utilisées pour leur reconnaissance, 
 
 e) savoir comment évaluer les performances réalisées.
 
-Le support de cours est [disponible ici](https://github.com/BigDataSpeech/EN/blob/gh-pages/docs/classEN.pdf) (Maud Ehrmann, Sophie Rosset).
+Le support de cours est disponible :
+
+* [en version longue](https://github.com/BigDataSpeech/EN/blob/gh-pages/docs/classEN.pdf)
+* [en version courte](https://github.com/BigDataSpeech/EN/blob/gh-pages/docs/classEN.pdf)
 
 ## Who are you talking about? An introduction to named entity processing (in large speech corpora). 
 
